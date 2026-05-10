@@ -5,7 +5,7 @@
 ### Senior DevOps Engineer | Pune, India 🇮🇳
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://kunal0022.github.io/Kunal-Gajbhare-devops-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-gajbhare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-gajbhare-56a3a4101)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal0022)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunal.j.gajbhare@gmail.com)
 
