@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-> Senior DevOps Engineer with **7+ years** of experience building and operating cloud-native infrastructure at scale. Passionate about automation, GitOps, and full-stack observability.
+> Senior DevOps Engineer with **8+ years** of experience building and operating cloud-native infrastructure at scale. Passionate about automation, GitOps, and full-stack observability.
 
 - 🏢 Working as **Senior DevOps Engineer** in Pune, India
 - ☸️ **CKA Certified** Kubernetes Administrator
